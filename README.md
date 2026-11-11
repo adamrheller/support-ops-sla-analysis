@@ -7,7 +7,7 @@ Where does first-response and resolution SLA break down in a technical support o
 Staffing, queue prioritization, and SLA target-setting.
 
 ## Data
-Kaggle "Technical Support Dataset" (Suvradeep, MIT Lincense). Likely synthetic or semi-synthetic; treated as a practice dataset , not a real company.
+Kaggle "Technical Support Dataset" (Suvradeep, MIT License). Likely synthetic or semi-synthetic; treated as a practice dataset, not a real company.
 
 ## Approach
 SQL (SQLite) for all metrics. Queries in `/sql`, written and numbered in order.
