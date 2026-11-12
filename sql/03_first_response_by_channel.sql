@@ -1,4 +1,4 @@
--- Q2: What share of tickets breached the first-response SLA, by channel?
+-- What share of tickets breached the first-response SLA, by channel?
 -- Grain: one row per channel. Denominator is all tickets (COUNT(*)).
 -- Note: the 18 tickets with no first response are flagged as violated in the source data, so they are counted as breaches here.
 
