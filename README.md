@@ -18,9 +18,13 @@ SQL (SQLite) for all metrics. Queries in `/sql`, written and numbered in order.
 **First-response breaches by channel**
 
 | Channel | Tickets | Breaches | Breach rate | 
+
 | --- | --- | --- |
+
 | Chat | 850 | 136 | 16.0% | 
+
 | Email | 1,234 | 114 | 9.2% |
+
 | Phone | 246 | 61 | 24.8% | 
 
 Phone has the worst rate, but Chat produces the most Breaches (136 of 311). Which channel to fix first depends on whether the goal is the rate or the volume. 
