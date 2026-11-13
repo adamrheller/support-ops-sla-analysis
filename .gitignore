@@ -1,6 +1,6 @@
 *.db
 *.sqlite
 .ipynb_checkpoints/
-_pychase_/
+__pycache__/
 .venv/
-.ds_store
+.DS_Store
